@@ -1,4 +1,4 @@
-## Olá, bem vindo a meu perfil! meu nome Ulisses Silvério
+## Olá, bem vindo ao meu perfil! meu nome Ulisses Silvério
 ### Aqui vai algumas informações sobre mim:
 - 👨‍🎓  Formado em Análise e Densenvolvimento de Sistemas
 - 👨‍💻  Estudando Java
