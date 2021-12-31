@@ -8,10 +8,10 @@
  
 
 - 👨‍🎓  Formado em Análise e Densenvolvimento de Sistemas
-- 👨‍💻  Estudando Java
-- ❔   Tenho uma paixão por filosofia
-- 🤣  Adoro editar planilhas no Excel
-- 📚  Em busca de conhecimento
+- 👨‍💻  Estudando desenvolvimento em front-end
+- ❔   Gosto de filosofia, mangás/animes e bons livros
+- 🤣 Adoro editar planilhas no Excel
+- 📚&#128125; Em busca de conhecimento
 ---
 ### Contato e redes sociais
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width = 8%>](https://www.youtube.com/user/osvirtuais) 
