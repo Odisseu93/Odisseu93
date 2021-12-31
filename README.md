@@ -2,11 +2,10 @@
 <h1 #000000>Olá, bem vindo ao meu perfil! meu nome é Ulisses Silvério</h1>
 
 
-### Aqui vai algumas informações sobre mim:
-<p>
-  <img src = "https://www.imagemhost.com.br/images/2021/11/23/FotoPerfilLinkedin.png" style = "width: 37%" ></p>
- 
 
+<p><img src = "https://www.imagemhost.com.br/images/2021/11/23/FotoPerfilLinkedin.png" style = "width: 37%" ></p>
+ 
+### Aqui vai algumas informações sobre mim:
 - 👨‍🎓  Formado em Análise e Densenvolvimento de Sistemas
 - 👨‍💻  Estudando desenvolvimento em front-end
 - ❔   Gosto de filosofia, mangás/animes e bons livros
