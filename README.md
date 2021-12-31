@@ -12,9 +12,8 @@
 - 🤣 Adoro editar planilhas no Excel
 - 📚&#128125; Em busca de conhecimento
 ---
-### Contato e redes sociais
+### Redes sociais:
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width = 8%>](https://www.youtube.com/user/osvirtuais) 
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width = 8%>](https://www.instagram.com/odisseu93/)
-[<img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width = 10%>](ulissessuporteti01@gmail.com)
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width = 8%>](https://twitter.com/Odisseu93)
 [<img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" width = 8%>](https://www.linkedin.com/in/ulisses-jos%C3%A9-silv%C3%A9rio-bb5562194/)
