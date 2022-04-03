@@ -28,3 +28,4 @@
 ### Contato:
 <a href="mailto:ulissessuporteti01b@gmail.com"><img src="https://www.imagemhost.com.br/images/2022/03/20/Gmail.png" target="_blank" width = 5% height = 5% />
 [<img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" width = 5% height = 5% />](https://www.linkedin.com/in/ulisses-jos%C3%A9-silv%C3%A9rio-bb5562194/)
+[<img src="https://www.imagemhost.com.br/images/2022/04/03/220236.png" width = 5% height = 5% />](https://wa.me/qr/7TN4HXSQPURGP1)
