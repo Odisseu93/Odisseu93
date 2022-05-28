@@ -14,9 +14,22 @@
 <li>👨‍🎓  Formado em Análise e Desenvolvimento de Sistemas</li>
 <li>❔   Gosto de filosofia, mangás/animes e bons livros</li>
  <br>
- <h3>Feramentas</h3>
- <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> <img 
- <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 /> <img                                              <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 />                                                                              
+ <h3>Tecnologias</h3>
+  <div align="left"  > 
+  <p>
+   <img alt="React.js" src="https://www.imagemhost.com.br/images/2022/05/28/image.png" width=40 height=40/>
+  </p> 
+  <p>
+   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 />
+   <img alt="Typescript.png" src="https://www.imagemhost.com.br/images/2022/05/28/image534a71808b49f1df.png" width=40 height=40 />
+  </p>
+  <p>
+   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> <img 
+   <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 /> <img                                           
+   <img alt="SASS" src="https://www.imagemhost.com.br/images/2022/05/27/919831.png" width=40 height=40 />
+  </p>
+  </div>
+                                                                            
  <br>
  <h3>Status</h3>
  <img src="https://github-readme-stats.vercel.app/api?username=Odisseu93&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em  />
