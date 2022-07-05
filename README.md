@@ -18,6 +18,21 @@
 ----
  
  
+
+<table >
+ <tr>
+  <td>
+   <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=odisseu93&layout=compact&langs_count=7&theme=radical"/>
+</div align="center">
+  </td>
+  <td>
+   <img src="https://github-readme-stats.vercel.app/api?username=Odisseu93&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em  />
+  </td>
+ </tr>
+</table>
+ 
+----
+
 <div align="center"  > 
  <h3>Tecnologias</h3> 
  <p>
@@ -33,20 +48,6 @@
   <img alt="SASS" src="https://www.imagemhost.com.br/images/2022/05/27/919831.png" width=40 height=40 />
  </p>
 </div>
-
-<table >
- <tr>
-  <td>
-   <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=odisseu93&layout=compact&langs_count=7&theme=radical"/>
-</div align="center">
-  </td>
-  <td>
-   <img src="https://github-readme-stats.vercel.app/api?username=Odisseu93&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em  />
-  </td>
- </tr>
-</table>
- 
-----
  
 <div>
 
@@ -64,7 +65,7 @@
   </td>
     <td>
 
-[<img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" width = 50vw height = 50hv />](https://www.linkedin.com/in/ulisses-jos%C3%A9-silv%C3%A9rio-bb5562194/)
+[<img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" width = 50vw height = 50hv />](https://www.linkedin.com/in/ulisses-silverio/)
 
   </td>
   <td>
@@ -72,6 +73,6 @@
 [<img src="https://www.imagemhost.com.br/images/2022/06/01/frontEndMentor-logo.png" />](https://www.frontendmentor.io/profile/Odisseu93)
 
 </td>
-<div>
+</div>
 
 
