@@ -49,30 +49,12 @@
  </p>
 </div>
  
-<div>
-
-<table align=center>
- <tr>
-  <th colspan="3">
-
-### Contato
-
- </th>
-</tr>
- <tr>
-  <td>
-   <a href="mailto:ulissessuporteti01@gmail.com"><img src="https://www.imagemhost.com.br/images/2022/03/20/Gmail.png" target="_blank" width = 50vw height = 50hv />
-  </td>
-    <td>
-
-[<img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" width = 50vw height = 50hv />](https://www.linkedin.com/in/ulisses-silverio/)
-
-  </td>
-  <td>
-
-[<img src="https://www.imagemhost.com.br/images/2022/06/01/frontEndMentor-logo.png" />](https://www.frontendmentor.io/profile/Odisseu93)
-
-</td>
-</div>
+<h3>Contato</h3>
+<ul align='left'>
+ <li><b>E-mail: </b><a href="mailto:ulissessuporteti01@gmail.com">ulissessuporteti01@gmail.com</a></li>
+ <li><b>Linkedin: </b><a href="https://www.linkedin.com/in/ulisses-silverio">www.linkedin.com/in/ulisses-silverio</a></li>
+ <li><b>FrontendMentor: </b><a href="https://www.frontendmentor.io/profile/Odisseu93">www.frontendmentor.io/profile/Odisseu93</a></li>
+ <li><b>CodePen: </b><a href="https://codepen.io/odisseu93">codepen.io/odisseu93</a></li>
+</ul>
 
 
