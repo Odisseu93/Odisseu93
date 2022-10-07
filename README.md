@@ -49,12 +49,13 @@
  </p>
 </div>
  
-<h3>Contato</h3>
+<h3>Links</h3>
 <ul align='left'>
  <li><b>E-mail: </b><a href="mailto:ulissessuporteti01@gmail.com">ulissessuporteti01@gmail.com</a></li>
  <li><b>Linkedin: </b><a href="https://www.linkedin.com/in/ulisses-silverio">www.linkedin.com/in/ulisses-silverio</a></li>
  <li><b>FrontendMentor: </b><a href="https://www.frontendmentor.io/profile/Odisseu93">www.frontendmentor.io/profile/Odisseu93</a></li>
  <li><b>CodePen: </b><a href="https://codepen.io/odisseu93">codepen.io/odisseu93</a></li>
+ <li><b>Codesandbox: </b><a href="https://codesandbox.io/u/Odisseu93">codesandbox.io/u/Odisseu93</a></li>
 </ul>
 
 
