@@ -17,20 +17,23 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
  
 <h3>Tecnologias</h3>
  <ul>
-  <li> React.js</li>
-  <li> JavaScript</li>
-  <li> TypeScript</li>
-  <li> Java(básico)</li>
-  <li> HTML</li>
-  <li> CSS</li>
-  <li> SASS</li>
-  <li> Tailwind</li>
-  <li> Figma</li>
-  <li> Git/Github</li>
-  <li> Gira</li>
-  <li> Trello</li>
- <li> Notion</li>
- </ul>
+   <li> React.js</li>
+   <li> JavaScript</li>
+   <li> TypeScript</li>
+   <li> Java(básico)</li>
+   <li> HTML</li>
+   <li> CSS</li>
+   <li> SASS</li>
+   <li> Tailwind</li>
+   <li> Figma</li>
+   <li> Git/Github</li>
+   <li> Gira</li>
+   <li> Trello</li>
+   <li> Notion</li>
+</ul>
+<div align="center">
+  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=odisseu93&layout=compact&langs_count=7&theme=radical"/>
+</div align="center">
 
 ----
 
