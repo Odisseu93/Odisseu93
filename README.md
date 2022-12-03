@@ -18,11 +18,10 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
 <h3>Tecnologias</h3>
  <ul>
    <li> React.js</li>
-   <li> JavaScript</li>
    <li> TypeScript</li>
+   <li> JavaScript</li>
    <li> Java(básico)</li>
-   <li> HTML</li>
-   <li> CSS</li>
+   <li> Bootstrap</li>
    <li> SASS</li>
    <li> Tailwind</li>
    <li> Figma</li>
