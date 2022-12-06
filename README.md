@@ -30,9 +30,6 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
    <li> Trello</li>
    <li> Notion</li>
 </ul>
-<div align="center">
-  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=odisseu93&layout=compact&langs_count=7&theme=radical"/>
-</div align="center">
 
 ----
 
