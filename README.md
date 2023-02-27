@@ -21,9 +21,10 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
    <li> TypeScript</li>
    <li> JavaScript</li>
    <li> Java(básico)</li>
-   <li> Bootstrap</li>
    <li> SASS</li>
    <li> Tailwind</li>
+   <li> Bootstrap</li>
+   <li> Chackra UI</li>
    <li> Figma</li>
    <li> Git/Github</li>
    <li> Gira</li>
