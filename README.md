@@ -27,7 +27,7 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
    <li> Chackra UI</li>
    <li> Figma</li>
    <li> Git/Github</li>
-   <li> Gira</li>
+   <li> Jira</li>
    <li> Trello</li>
    <li> Notion</li>
 </ul>
