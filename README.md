@@ -24,7 +24,7 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
    <li> SASS</li>
    <li> Tailwind</li>
    <li> Bootstrap</li>
-   <li> Chackra UI</li>
+   <li> Chakra UI</li>
    <li> Figma</li>
    <li> Git/Github</li>
    <li> Jira</li>
