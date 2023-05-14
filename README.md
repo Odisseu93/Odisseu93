@@ -17,6 +17,7 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
  
 <h3>Tecnologias</h3>
  <ul>
+   <li> Next.js</li>
    <li> React.js</li>
    <li> TypeScript</li>
    <li> JavaScript</li>
