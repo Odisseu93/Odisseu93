@@ -21,7 +21,6 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
    <li> React.js</li>
    <li> TypeScript</li>
    <li> JavaScript</li>
-   <li> Java(básico)</li>
    <li> SASS</li>
    <li> Tailwind</li>
    <li> Bootstrap</li>
