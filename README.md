@@ -36,7 +36,7 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
 
 <div align="center">
 <h3>Git status</h3>
- <img src="https://github-readme-stats.vercel.app/api?username=Odisseu93&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em/>
+   <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=odisseu93&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' /></a>
 </div>
  
 ----
