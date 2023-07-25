@@ -63,11 +63,11 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
 
 ----
  
-<div align="left">
+<div>
 	<h3>Git status</h3>
 		 <a href="https://github.com/odisseu93">
- 		 	<img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=odisseu93&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD'/>
-  			<img height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=odisseu93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ 		 	<img  height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=odisseu93&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD'/>
+  			<img  height="180em" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=odisseu93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   		 </a>
 </div>
 
