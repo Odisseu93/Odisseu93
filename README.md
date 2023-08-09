@@ -1,64 +1,38 @@
-
-```diff 
-! Olá, bem vindo ao meu perfil!
-```
-
+# Ulisses Silvério 
 <div>
 	<h3>Informações</h3>
 	 <ul>
 	  <li>👨‍💻  Front-end</li>
 	  <li>👨‍🎓  Formado em Análise e Desenvolvimento de Sistemas</li>
-	  <li>❔   Gosto de filosofia, mangás/animes e bons livros</li>
+	  <li>❔  Gosto de filosofia, mangás/animes e bons livros</li>
 	 </ul>
-<p>Atualmente eu estou trabalhando com React.js e Typescript,<br> desenvolvendo os meus própios projetos e procurando problemas mais complexos para resolver.<br>
-Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busco oportunidades na area de frontend.</p>
+<p>Atualmente atuo como Desenvolvedor Web Front-end freelancer e utilizo as tecnologias listada abaixo <br/></br>
 
 ---
 
-
 <div class="technologies" style="display: flex;">
 	<h3>Tecnologias</h3>
-	 <ul class="list">
-		<li> 
-  			<img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-			Next.js
-		</li>
-		<li>
-  			<img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-			React.js
-		</li>
-		<li> 
-  			<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-			TypeScript
-		</li>
-	   	<li>
-  			<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-			JavaScript
-		</li>
-	   	<li> 
- 			<img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-			SASS
-		</li>
-	   	<li> 
-  			<img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-			Tailwind
-		</li>
-	   	<li> 
-			<img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-			Bootstrap
-		</li>
-	   	<li> Chakra UI</li>
-	   	<li> 
-  			<img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-			Figma
-		</li>
-	   	<li>
-  			<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-			Git/Github
-		</li>
-	   	<li>Trello</li>
-  	   	<li> Notion</li>
-	</ul>
+	<img align="center" alt="react,typescript and javascript icons"  src="https://skillicons.dev/icons?i=react,typescript,javascript"><br/> <br/>
+	<ul class="list">
+		<li>React.js</li>
+		<li>TypeScript</li>
+		<li>JavaScript</li>		 
+		<li>Styled Components</li>	 
+		<li>Tailwind CSS</li>	
+		<li>SASS</li>	
+		<li>Chakra Ui.</li>
+		<li>Bootstrap</li>
+		<li>Git</li>
+		<li>Vite</li>		 
+		<li>Webpack</li>
+	        <li>Figma</li>	
+		<li>Postman</li>
+		<li>OS Linux</li>
+	</ul>			 
+	<img align="center" alt="tech icons"  src="https://skillicons.dev/icons?i=styledcomponents,tailwind,sass,bootstrap"><br/><br/>
+	<img align="center" alt="tech icons"  src="https://skillicons.dev/icons?i=vite,webpack"><br/><br/>
+	<img align="center" alt="git,figma and postman icons"  src="https://skillicons.dev/icons?i=git,figma,postman"><br/><br/>
+	<img align="center" alt="linux icon"  src="https://skillicons.dev/icons?i=linux">
 </div>	
 
 ----
@@ -75,11 +49,11 @@ Tenho facilidade e disposição para aprender sistemas e ferramentas novas, busc
 
 <h3>Links e Contato</h3>
 <ul align='left'>
-	<li><b>E-mail: </b><a href="mailto:ulissessuporteti01@gmail.com">ulissessuporteti01@gmail.com</a></li>
-	<li><b>Linkedin: </b><a href="https://www.linkedin.com/in/ulisses-silverio">www.linkedin.com/in/ulisses-silverio</a></li>
-	<li><b>FrontendMentor: </b><a href="https://www.frontendmentor.io/profile/Odisseu93">www.frontendmentor.io/profile/Odisseu93</a></li>
-	<li><b>CodePen: </b><a href="https://codepen.io/odisseu93">codepen.io/odisseu93</a></li>
-	<li><b>Codesandbox: </b><a href="https://codesandbox.io/u/Odisseu93">codesandbox.io/u/Odisseu93</a></li>
+	<li><b> E-mail: </b><a href="mailto:ulissessuporteti01@gmail.com">ulissessuporteti01@gmail.com</a></li>
+	<li><b> Linkedin: </b><a href="https://www.linkedin.com/in/ulisses-silverio"> /in/ulisses-silverio</a></li>
+	<li><b> FrontendMentor: </b><a href="https://www.frontendmentor.io/profile/Odisseu93"> /Odisseu93</a></li>
+	<li><b> CodePen: </b><a href="https://codepen.io/odisseu93"> /odisseu93</a></li>
+	<li><b> Codesandbox: </b><a href="https://codesandbox.io/u/Odisseu93"> /u/Odisseu93</a></li>
 </ul>
 
 
