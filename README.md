@@ -1,4 +1,5 @@
-# Ulisses Silvério 
+# Ulisses Silvério
+
 <div>
 	<h3>Informações</h3>
 	 <ul>
@@ -12,8 +13,7 @@
 
 <div class="technologies" style="display: flex;">
 	<h3>Tecnologias</h3>
-	<img align="center" alt="react,typescript and javascript icons"  src="https://skillicons.dev/icons?i=react,typescript,javascript"><br/> <br/>
-	<ul class="list">
+	<ul class="front-end">
 		<li>React.js</li>
 		<li>TypeScript</li>
 		<li>JavaScript</li>		 
@@ -22,21 +22,35 @@
 		<li>SASS</li>	
 		<li>Chakra Ui.</li>
 		<li>Bootstrap</li>
+	</ul>			 
+	<ul class="back-end">
+	<li>Node.js</li>
+	<li>Express.js</li>
+	<li>Handlebars</li>
+	<li>Sequelize</li>
+	</ul>
+	<ul class="database">
+	<li>mysql</li>
+	</ul>
+	<ul class="others">
 		<li>Git</li>
 		<li>Vite</li>		 
 		<li>Webpack</li>
+		<li>Docker</li>
 	        <li>Figma</li>	
 		<li>Postman</li>
 		<li>OS Linux</li>
-	</ul>			 
+	</ul>
+	<img align="center" alt="react,typescript and javascript icons"  src="https://skillicons.dev/icons?i=react,typescript,javascript"><br/> <br/>
 	<img align="center" alt="tech icons"  src="https://skillicons.dev/icons?i=styledcomponents,tailwind,sass,bootstrap"><br/><br/>
-	<img align="center" alt="tech icons"  src="https://skillicons.dev/icons?i=vite,webpack"><br/><br/>
+	<img align="center" alt="tech icons"  src="https://skillicons.dev/icons?i=vite,webpack,docker"><br/><br/>
+	<img align="center" alt="git,figma and postman icons"  src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize"><br/><br/>
 	<img align="center" alt="git,figma and postman icons"  src="https://skillicons.dev/icons?i=git,figma,postman"><br/><br/>
 	<img align="center" alt="linux icon"  src="https://skillicons.dev/icons?i=linux">
-</div>	
+</div>
 
-----
- 
+---
+
 <div>
 	<h3>Git status</h3>
 		 <a href="https://github.com/odisseu93">
@@ -45,7 +59,7 @@
   		 </a>
 </div>
 
-----
+---
 
 <h3>Links e Contato</h3>
 <ul align='left'>
@@ -55,5 +69,3 @@
 	<li><b> CodePen: </b><a href="https://codepen.io/odisseu93"> /odisseu93</a></li>
 	<li><b> Codesandbox: </b><a href="https://codesandbox.io/u/Odisseu93"> /u/Odisseu93</a></li>
 </ul>
-
-
