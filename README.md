@@ -41,12 +41,12 @@
 		<li>Postman</li>
 		<li>OS Linux</li>
 	</ul>
-	<img align="center" alt="react,typescript and javascript icons"  src="https://skillicons.dev/icons?i=react,typescript,javascript"><br/> <br/>
+<!-- 	<img align="center" alt="react,typescript and javascript icons"  src="https://skillicons.dev/icons?i=react,typescript,javascript"><br/> <br/>
 	<img align="center" alt="tech icons"  src="https://skillicons.dev/icons?i=styledcomponents,tailwind,sass,bootstrap"><br/><br/>
 	<img align="center" alt="tech icons"  src="https://skillicons.dev/icons?i=vite,webpack,docker"><br/><br/>
 	<img align="center" alt="git,figma and postman icons"  src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize"><br/><br/>
 	<img align="center" alt="git,figma and postman icons"  src="https://skillicons.dev/icons?i=git,figma,postman"><br/><br/>
-	<img align="center" alt="linux icon"  src="https://skillicons.dev/icons?i=linux">
+	<img align="center" alt="linux icon"  src="https://skillicons.dev/icons?i=linux"> -->
 </div>
 
 ---
@@ -63,7 +63,7 @@
 
 <h3>Links e Contato</h3>
 <ul align='left'>
-	<li><b> E-mail: </b><a href="mailto:ulissessuporteti01@gmail.com">ulissessuporteti01@gmail.com</a></li>
+	<li><b> E-mail: </b><a href="mailto:contato@ulisses.tec.br">contato@ulisses.tec.br</a></li>
 	<li><b> Linkedin: </b><a href="https://www.linkedin.com/in/ulisses-silverio"> /in/ulisses-silverio</a></li>
 	<li><b> FrontendMentor: </b><a href="https://www.frontendmentor.io/profile/Odisseu93"> /Odisseu93</a></li>
 	<li><b> CodePen: </b><a href="https://codepen.io/odisseu93"> /odisseu93</a></li>
