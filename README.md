@@ -63,6 +63,7 @@
 
 <h3>Links e Contato</h3>
 <ul align='left'>
+	<li><b> Site: </b><a href="https://www.ulisses.tec.br/">www.ulisses.tec.br</a></li>
 	<li><b> E-mail: </b><a href="mailto:contato@ulisses.tec.br">contato@ulisses.tec.br</a></li>
 	<li><b> Linkedin: </b><a href="https://www.linkedin.com/in/ulisses-silverio"> /in/ulisses-silverio</a></li>
 	<li><b> FrontendMentor: </b><a href="https://www.frontendmentor.io/profile/Odisseu93"> /Odisseu93</a></li>
