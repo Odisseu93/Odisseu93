@@ -3,8 +3,9 @@
 <div>
 	<h3>Informações</h3>
 	 <ul>
-	  <li>👨‍💻  Front-end</li>
-	  <li>👨‍🎓  Formado em Análise e Desenvolvimento de Sistemas</li>
+	  <li>👨🏽‍💻️  Front-end</li>
+	  <li>👨🏽‍🎓️  Formado em Análise e Desenvolvimento de Sistemas</li>
+	  <li>👨🏽‍💼️  Experiência com E-commerce e processos administrativos</li>	
 	  <li>❔  Gosto de filosofia, mangás/animes e bons livros</li>
 	 </ul>
 <p>Atualmente atuo como Desenvolvedor Web Front-end freelancer e utilizo as tecnologias listada abaixo <br/></br>
