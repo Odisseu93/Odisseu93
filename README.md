@@ -16,6 +16,7 @@
 	<h3>Tecnologias</h3>
 	<ul class="front-end">
 		<li>React.js</li>
+		<li>Angular</li>
 		<li>TypeScript</li>
 		<li>JavaScript</li>		 
 		<li>Styled Components</li>	 
